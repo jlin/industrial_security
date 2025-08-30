@@ -14,7 +14,7 @@ Now that's out of the way, topics that interest me and I'd like to deep-dive int
 
 - malware analysis (for example stuxnet)
 
-- ecosystem review of companies and groups that specifically do code review, security analysis, and incident response, specifically from a job-searching angle
+- ecosystem review of companies and groups that do code review, security analysis, and incident response, specifically from a job-searching angle
 
 - decompilation and dissassembly using tools like ghidra/ida
 
